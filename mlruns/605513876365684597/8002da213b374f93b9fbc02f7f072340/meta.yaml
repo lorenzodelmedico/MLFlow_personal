@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/605513876365684597/8002da213b374f93b9fbc02f7f072340/artifacts
+end_time: 1738769233553
+entry_point_name: ''
+experiment_id: '605513876365684597'
+lifecycle_stage: active
+run_id: 8002da213b374f93b9fbc02f7f072340
+run_name: unleashed-horse-773
+run_uuid: 8002da213b374f93b9fbc02f7f072340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738769233538
+status: 3
+tags: []
+user_id: lordbenzo

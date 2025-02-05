@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/588343512068939149/a83f8d8db58d4b95aafea7bf7fe0679d/artifacts
+end_time: 1738771041047
+entry_point_name: ''
+experiment_id: '588343512068939149'
+lifecycle_stage: active
+run_id: a83f8d8db58d4b95aafea7bf7fe0679d
+run_name: adorable-shark-585
+run_uuid: a83f8d8db58d4b95aafea7bf7fe0679d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738771018628
+status: 3
+tags: []
+user_id: lordbenzo

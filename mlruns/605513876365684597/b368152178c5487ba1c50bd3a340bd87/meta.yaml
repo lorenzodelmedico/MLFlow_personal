@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/605513876365684597/b368152178c5487ba1c50bd3a340bd87/artifacts
+end_time: 1738768424468
+entry_point_name: ''
+experiment_id: '605513876365684597'
+lifecycle_stage: active
+run_id: b368152178c5487ba1c50bd3a340bd87
+run_name: enchanting-frog-129
+run_uuid: b368152178c5487ba1c50bd3a340bd87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738768418489
+status: 3
+tags: []
+user_id: lordbenzo

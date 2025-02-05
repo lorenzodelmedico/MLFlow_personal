@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/588343512068939149/8f39c62aa84b4a76b73e6ffec9d4e785/artifacts
+end_time: 1738769405287
+entry_point_name: ''
+experiment_id: '588343512068939149'
+lifecycle_stage: active
+run_id: 8f39c62aa84b4a76b73e6ffec9d4e785
+run_name: thundering-zebra-898
+run_uuid: 8f39c62aa84b4a76b73e6ffec9d4e785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738769404854
+status: 4
+tags: []
+user_id: lordbenzo

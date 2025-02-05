@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738769768302
+current_stage: Production
+description: ''
+last_updated_timestamp: 1738769843487
+name: taxi_trip_lr_model
+run_id: dac2baa0f05844f88856b98e59cb12e2
+run_link: ''
+source: mlflow-artifacts:/588343512068939149/dac2baa0f05844f88856b98e59cb12e2/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/588343512068939149/dac2baa0f05844f88856b98e59cb12e2/artifacts/model
+user_id: null
+version: 1
