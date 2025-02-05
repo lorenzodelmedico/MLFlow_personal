@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/588343512068939149/02552bb469f942a58470ecb3f307303e/artifacts
+end_time: 1738775663683
+entry_point_name: ''
+experiment_id: '588343512068939149'
+lifecycle_stage: active
+run_id: 02552bb469f942a58470ecb3f307303e
+run_name: polite-skink-767
+run_uuid: 02552bb469f942a58470ecb3f307303e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738775638551
+status: 3
+tags: []
+user_id: lordbenzo

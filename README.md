@@ -71,10 +71,10 @@ mlflow.log_artifact("confusion_matrix.png")
 ### Manage registered models
 
 ## 🔧 Configuration Guide
-Environment Variable	Description	Default Value
-MLFLOW_TRACKING_URI	    Tracking server URI	http://localhost:5000
-MLFLOW_ARTIFACT_ROOT	Artifact storage location	./artifacts
-MLFLOW_BACKEND_STORE	Backend store URI	sqlite:///mlflow.db
+Environment Variable Description Default Value
+MLFLOW_TRACKING_URI Tracking server URI	http://localhost:5000
+MLFLOW_ARTIFACT_ROOT Artifact storage location	./artifacts
+MLFLOW_BACKEND_STORE Backend store URI	sqlite:///mlflow.db
 
 ## 🤖 Model Deployment Workflow
 ### Develop model in experiment
